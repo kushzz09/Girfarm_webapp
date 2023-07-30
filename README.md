@@ -30,7 +30,7 @@ This would help people find a better stay with the best services at Junagadh
 
 ![image](https://github.com/kushzz09/Girfarm_webapp/assets/126875076/9e730d7b-6eb6-40c1-9de7-e8c336a2aaa2)
 
-![image](https://github.com/kushzz09/Girfarm_webapp/assets/126875076/3a2dac92-03aa-4306-8c2c-5b3e629e3cc1)
+![image](https://github.com/kushzz09/Girfarm_webapp/assets/126875076/d211b0cd-9e80-4cce-918e-ad21bf3bf3b8)
 
 ![image](https://github.com/kushzz09/Girfarm_webapp/assets/126875076/a3dc9b60-02eb-4947-8e1b-dcfce05f94c5)
 

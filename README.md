@@ -3,6 +3,7 @@ Gir Farm Web App is a web application where gir farm owners can showcase their f
 This would help people find a better stay with the best services at Junagadh
 
 Purpose
+
 •	Promote tourism in Gir, Junagadh by increasing visitor numbers and visitor spending within the local economy.
 
 •	Environmental education.
